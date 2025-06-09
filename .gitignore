@@ -11,3 +11,6 @@
 .factorypath
 /.gradle/
 /build/
+/.gradle
+/.gradle/8.14/checksums
+/.gradle/8.14
